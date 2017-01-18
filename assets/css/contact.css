@@ -34,8 +34,24 @@ body{
 }
 
 #navlink{
-	float: right;
-	margin: 20px 330px 30px 0px;
+	position: fixed;
+	clear: both;
+	margin: 20px 330px 30px 750px;
+}
+
+#about{
+	
+	position: fixed;
+	/*margin-right: 0px;*/
+}
+
+#portfolio{
+	position: fixed;
+	padding-left: 45px;
+}
+#contactM{
+	position: fixed;
+	padding-left: 108px;
 }
 
 #footer1{
@@ -59,6 +75,14 @@ body{
 }
 
 #div2{
+	clear: both;
+	width: 90%;
+	margin: 0px auto;
+	height: 3px;
+	background-color: #ccc;
+}
+
+#div3{
 	clear: both;
 	width: 90%;
 	margin: 0px auto;
@@ -100,9 +124,10 @@ body{
 	height: 150px;
 	background-color: #fff;
 	margin-top: 150px;
-	margin-left: 50px;
+	margin-left: 190px;
 	padding-left: 12px;
 	padding-bottom: 2px;
+	
 	}
 
 #footer1{

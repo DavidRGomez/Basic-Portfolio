@@ -4,7 +4,7 @@ body{
 	background-image: url(http://bgfons.com/upload/cardboard_texture999.jpg);
 	background-attachment: fixed;
 	margin: 0px;
-	padding: 0p
+	padding: 0px;
 	margin-right: 50px;
 
 }
@@ -20,6 +20,7 @@ body{
 	border-bottom-width: 5px;
 	border-bottom-style: solid;
 
+
 }
 
 #navName {
@@ -29,13 +30,28 @@ body{
 	height: 30px;
 	width: 150px;
 	padding: 20px 4px 0 4px;
-	margin: 20px 0px 0px 150px;
+	margin: -10px 470px 0px 150px;
 	color: #fff;
 }
 
 #navlink{
-	float: right;
+	
 	margin: 20px 330px 30px 0px;
+}
+
+#about{
+	clear: both;
+	position: fixed;
+	/*margin-right: 0px;*/
+}
+
+#portfolio{
+	position: fixed;
+	padding-left: 45px;
+}
+#contactM{
+	position: fixed;
+	padding-left: 108px;
 }
 
 #footer1{
@@ -48,7 +64,7 @@ body{
 	border-top-style: solid;
 	border-top-width: 8px;
 	border-top-color: #4aaaa5;
-	margin-top: 600px;
+	margin-top: 750px;
 	text-align: center;
 	padding-top: 15px;
 	width:100%;
@@ -170,7 +186,7 @@ h1{
 	width: 160px;
 	height: 150px;
 	background-color: #fff;
-	margin: -463px 0px 0px 620px;
+	margin: -598px 0px 0px 775px;
 	padding-left: 12px;
 	padding-bottom: 2px;
 }
@@ -251,3 +267,4 @@ h1{
 	padding-top: 10px;
 
 }
+
