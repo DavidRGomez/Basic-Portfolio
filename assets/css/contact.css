@@ -20,8 +20,6 @@ body{
 	border-bottom-width: 5px;
 	border-bottom-style: solid;
 
-/*	visibility: hidden;*/
-
 }
 
 #navName {
@@ -146,7 +144,6 @@ h1{
 
 #dline{
 	width: 100%;
-	/*margin: 0 auto;*/
 	height: 3px;
 	background-color: #cccccc;
 	margin-bottom: 15px;
