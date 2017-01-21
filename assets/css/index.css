@@ -143,17 +143,24 @@ h2{
 }
 
 #about{
-	position: fixed;
-	/*margin-right: 0px;*/
+	
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 #portfolio{
-	position: fixed;
-	padding-left: 45px;
+	
+	margin-left: 10px;
+	margin-right: 10px;
+	float: right;
 }
 #contactM{
-	position: fixed;
-	padding-left: 108px;
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+
 }
 
 

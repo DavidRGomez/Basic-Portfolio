@@ -34,25 +34,31 @@ body{
 }
 
 #navlink{
+	float: right;
+	margin: 20px 100px 30px 800px;
 	position: fixed;
-	clear: both;
-	margin: 20px 330px 30px 750px;
-}
-
-#about{
-	
-	position: fixed;
-	/*margin-right: 0px;*/
-}
-
-#portfolio{
-	position: fixed;
-	padding-left: 45px;
 }
 #contactM{
-	position: fixed;
-	padding-left: 108px;
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	
 }
+#portfolio{
+	
+	margin-left: 10px;
+	margin-right: 10px;
+	float: right;
+}
+
+#about{	
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
 
 #footer1{
 	color: #fff;
